@@ -1,6 +1,6 @@
 # music-controller
 
-I completed this project quite some time ago, so I cannot remember all of the technologies in it, but it helped me a lot in learning python, ReactJS and the basic concepts of web application.
+I completed this project quite some time ago, and it helped me a lot in learning python, ReactJS and the basic concepts of web application.
 
 This project uses Django as a backend and ReactJS as a frontend and call Spotify Api to retrieve information about the currently playing song.
 
